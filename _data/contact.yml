@@ -1,7 +1,8 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: https://www.instagram.com/tws.wear/
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
