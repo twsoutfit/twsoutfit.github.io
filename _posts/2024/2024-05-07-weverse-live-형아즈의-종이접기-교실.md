@@ -11,7 +11,7 @@ image:
 ### Shinyu (신유)
 
 ![Desktop View](/assets/img/posts/weverse-live/240507-youngjae.jpg){: width="520" height="520" }
-_Youngjae wore AMI Paris Shirt_
+_Youngjae wore AMI Paris Shir_
 
 
 
