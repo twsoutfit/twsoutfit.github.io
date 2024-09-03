@@ -10,20 +10,15 @@ image:
 
 ### Shinyu (신유)
 
-<div style="text-align: center;">
-  <picture>
-    <source srcset="/assets/img/posts/weverse-live/240507-shinyu.webp" type="image/webp">
-    <img src="/assets/img/posts/weverse-live/240507-shinyu.jpg" alt="Shinyu wore 1017 ALY X 9SM Oversized Logo Poplin Shirt" width="520" height="520" loading="lazy" style="max-width: 100%; height: auto;">
-  </picture>
-  <p> Shinyu wore 1017 ALY X 9SM Oversized Logo Poplin Shirt </p>
-</div>
+![Desktop View](/assets/img/posts/weverse-live/240507-youngjae.jpg){: width="520" height="520" }
+_Youngjae wore AMI Paris Shirt_
 
 
 
 ### Dohoon (도훈)
 
-![Pipeline](/assets/img/posts/weverse-live/output.webp){: width="520" height="520" }
-_Dohoon wore Archive Bold Jacket_
+![Desktop View](/assets/img/posts/weverse-live/240507-youngjae.jpg){: width="520" height="520" }
+_Youngjae wore AMI Paris Shirt_
 
 ### Youngjae (영재)
 
