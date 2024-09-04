@@ -11,5 +11,16 @@ image:
 
 ### Shinyu (신유) and Jihoon (지훈)
 
-![Desktop View](/assets/img/posts/weverse-live/240817-shinyu-jihoon.jpg){: width="520" height="520" }
-_Shinyu wore Supreme Sweatshirt and Jihoon wore Project G/R Hoodie_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240817-shinyu-jihoon.webp" 
+      alt="Shinyu wore Supreme Boxy Piping ARC Hooded Sweatshirt and Jihoon wore Project G/R I Love GR Hoodie" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoUABQAPzmSwFmvKaajqAgB4CcJYwBWItwsh1MOjOGdyWd/cwpYVz5AAP5xcYVmS+IZi9PK0GZZhpivuNKnMXmdU2KGvUT9LcamazdNiWnmN0YXy82cA/suBOqsup2KFBOFlXMFeTim6zPTsS+yv7p4X1uPcXe87npDqcrSuosGSbCgd7mvkdamt0zLBbyp9g+H4sX8uhk/lgWXeBGgSGwKUXMH5jNYAAA='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Shinyu wore Supreme Boxy Piping ARC Hooded Sweatshirt and Jihoon wore Project G/R I Love GR Hoodie</em></p>
+</div>
