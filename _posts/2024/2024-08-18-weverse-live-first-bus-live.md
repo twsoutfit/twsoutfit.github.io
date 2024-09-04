@@ -4,8 +4,9 @@ date: 2024-08-18 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live]
 image:
-  path: /assets/img/posts/header/240818.png
+  path: /assets/img/posts/header/240818.webp
   alt: 240818 첫 버스 라이브 🚌
+  lqip: data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJQBWCP/wFHmg76GKr73lAANzoQBMGRmuo6ILW4gkSg2W7MczXBs631HXAxf6/RzZ03s/G49vOhnqow5ehFOiZPcjnMkFcZSGoAD75PdH7ooex9K/nfubioqLdJ+HMJuDh7H5YVzV2HIAA
 ---
 
 ### Shinyu (신유)

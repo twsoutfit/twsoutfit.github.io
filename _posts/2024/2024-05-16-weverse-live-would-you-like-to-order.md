@@ -4,8 +4,10 @@ date: 2024-05-16 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, accessories]
 image:
-  path: /assets/img/posts/header/240516.png
+  path: /assets/img/posts/header/240516.webp
   alt: 240516 주문하시겠어예😊
+  lqip: data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJYwDE2Bu0vvtMQSPsMADvE9xe+WKK9XAb0exEKbajFhlJ9CcVXlDXRNFD2SeaixDViA8aQvgSGHYqiJ0L6AAA
+
 ---
 
 ### Hanjin (한진)

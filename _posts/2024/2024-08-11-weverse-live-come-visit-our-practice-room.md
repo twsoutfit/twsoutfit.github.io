@@ -4,8 +4,9 @@ date: 2024-08-11 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, accessories]
 image:
-  path: /assets/img/posts/header/240811.png
+  path: /assets/img/posts/header/240811.webp
   alt: 240811 우리 연습실에 놀러오세요🤗
+  lqip: data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoUAAsAPzmEuVOvKKWisAgB4CcJYwDE2BozvpnUHkumzcAA/rT6oeKboJeCb+ukUYLApl59m1cDqMYTW+SAd3RCfoi0ikRABq73zTd45BuaeFmUJnKYskw4ZOQZFwAA
 ---
 
 ### Shinyu (신유)

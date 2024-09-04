@@ -1,11 +1,13 @@
 ---
-title: (LIVE) 240703 우리가 바로 챔피언🏆
-date: 2024-07-03 11:33:00 +0800
+title: (LIVE) 240630 1주 차 끝! 2주 차도 함께해 줄래? 🤗
+date: 2024-06-30 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live]
 image:
-  path: /assets/img/posts/header/240703.png
-  alt: 240703 우리가 바로 챔피언🏆
+  path: /assets/img/posts/header/240630.webp
+  alt: 240630 1주 차 끝! 2주 차도 함께해 줄래? 🤗
+  lqip: data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoUAAsAPzmGulOvKKWisAgB4CcJZACdABL4ax/RHhJ/twAA/UF8fPi4QWxdSYwezdBIFT8rU5fFAkHToa4dULCiZ5Zzgar8yoXkMODZAqEpfCL/AmEKzdYAAAA=
+
 ---
 
 ### Shinyu (신유)

@@ -4,8 +4,10 @@ date: 2024-06-12 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live]
 image:
-  path: /assets/img/posts/header/240531.png
+  path: /assets/img/posts/header/240531.webp
   alt: 240531 오늘 내 생일임2
+  lqip: data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoUAAsAPzmEuVOvKKWisAgB4CcJQAAL1IfWd2MAPIMa5AAA8Mhq4GEpyXkORKF63u0ZtHmPddMW56mWKnYyYHtU/NbQ3pvR5NBPHxAB4PJvl0vGHTjy4FMyGQv+IUKCIAA=
+
 ---
 
 ### Shinyu (신유)

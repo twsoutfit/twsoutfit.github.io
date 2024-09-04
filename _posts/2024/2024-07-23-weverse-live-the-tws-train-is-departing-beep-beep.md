@@ -4,8 +4,9 @@ date: 2024-07-23 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live]
 image:
-  path: /assets/img/posts/header/240723.png
+  path: /assets/img/posts/header/240723.webp
   alt: 240723 TWS 열차 출발합니다 뿜부~🚘🚘
+  lqip: data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBACdASoUAAsAPzmGulQvKSWjMAgB4CcJYgDCrwAB7ZQRQ1cFR2taJ1gAAP48LueMvfCtRVINI88pzgdC7rNLNmMx1bwnXCMh+YtxbeQWJyjVBbWRRYj+eQ7RZhTyI4E9/L1IEHl/UZ7QrEEX25psytnXBtYvIkDqAAAA
 ---
 
 ### Shinyu (신유)

@@ -4,8 +4,10 @@ date: 2024-05-25 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, phone_case, accessories]
 image:
-  path: /assets/img/posts/header/240525.png
+  path: /assets/img/posts/header/240525.webp
   alt: 240525 첫 대학 축제 다녀왔습니다 (아카라카) 💙
+  lqip: data:image/webp;base64, UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoUAAsAPzmEuVOvKKWisAgB4CcJQBYdgvTWXJtNSowZpNHoAP5xYcqkQt0sRb3E96CC4SOnCAVgWfYRcs4jrK0XEpvcP6CXqZmVj3RIJE3WfiXzHdWFwi26gul7SutGc9X1AagAAAA=
+
 ---
 
 ### Shinyu (신유)

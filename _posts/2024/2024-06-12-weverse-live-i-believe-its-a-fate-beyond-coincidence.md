@@ -4,8 +4,10 @@ date: 2024-06-12 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, accessories, bags]
 image:
-  path: /assets/img/posts/header/240612.png
+  path: /assets/img/posts/header/240612.webp
   alt: 240612 우연을 넘은 운명이라 믿어 (2)
+  lqip: data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoUAAsAPzmGuVOvKSWisAgB4CcJQBhV4C1gALAdnzrxEdUI+gAA/sNZbLoY57ztOLA8smv4jhtk0U63H6bNBcwRLPgJwRzlPeK3VDhkXPedxvz9MeZwKmxPawwcA2BWoqR8HtecoX8G4WoeYwoGMF+QYAAAAA==
+
 ---
 
 ### Shinyu (신유)

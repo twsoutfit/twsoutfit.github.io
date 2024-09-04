@@ -4,8 +4,9 @@ date: 2024-08-08 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, food, japan]
 image:
-  path: /assets/img/posts/header/240808.jpeg
+  path: /assets/img/posts/header/240808.webp
   alt: 240808 200일 파뤼 투나잇 🎉
+  lqip: data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJagCsABToTJ3u03c10ADJQ+bdgUyLF5AuzUe28YBW7Nyog81Xhqng1J2VZNC7rO8in1dG+BLcVIDC3LBHRfejxFIsEQ19UYS6MbzPRNeyovV87FZYbFW0CNfTYyJb4AA=
 ---
 
 ### TWS (투어스)

@@ -4,8 +4,10 @@ date: 2024-06-26 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, accessories]
 image:
-  path: /assets/img/posts/header/240626.png
+  path: /assets/img/posts/header/240626.webp
   alt: 240626 TWS 2nd Mini Album <SUMMER BEAT!> COMEBACK LIVE!🤗
+  lqip: data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoUAAsAPzmGuVQvKSWjMAgB4CcJQBXDhDkZ0E9HMotJMIAAAP6uf3yC5xMAl+fanWZN2/GgKGy64rRHS9uoo+W1eloFcr79T1rWl8smAAA=
+
 ---
 
 ### Shinyu (신유)

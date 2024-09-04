@@ -4,8 +4,9 @@ date: 2024-07-05 11:33:00 +0800
 categories: [Weverse, Live]
 tags: [live, accessories]
 image:
-  path: /assets/img/posts/header/240705.png
+  path: /assets/img/posts/header/240705.webp
   alt: 240705 42의 자랑 TWS🥰
+  lqip: data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoUAAsAPzmGulOvKKWisAgB4CcJYgC7ABo9XcJi3VeDJWHfAAD+GecxO0ghCrfJX1y9Xr2iN/T+W5qNr5eJzGBm6USPGh/Y3f9plyyG/0cLhva5+fbUrt4MUiiuXIyYxZn70MAMPCf1EMbsAIwGAAAA
 ---
 
 ### Shinyu (신유)
