@@ -25,8 +25,18 @@ image:
   <p style="margin-top: 10px;"><em>Youngjae wore Il Corso Western Grunge Check Shirt Dark Pink</em></p>
 </div>
 
-
 ### Kyungmin (경민)
 
-![Desktop View](/assets/img/posts/weverse-live/240825-kyungmin.jpg){: width="520" height="520" }
-_Kyungmin wore Peeps Basic Label Beanie_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240825-kyungmin.webp" 
+      alt="Kyungmin wore Peeps Basic Label Beanie Red" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASoUABQAPzmOvVgvKaYjqAqp4CcJbACB4WUdnPnQUwNoDLsNr7oBr0tI0AD87/L115XlY/0GpdnTufeQXQfWQsG1OD2fOp5pwaw8D0Xu/ojlGziiPxRbbXmscaJuag7DJ4/jZEuGuOBBlq9XamSF5lBvyq75nDKtDIZ5Si6CndCFzrGBnXvTLnfVyP3KzhtycKBBbyRDP1r+/Jw/Fe1UAAAA'); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Kyungmin wore Peeps Basic Label Beanie Red</em></p>
+</div>
