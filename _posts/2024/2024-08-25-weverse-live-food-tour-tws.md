@@ -11,8 +11,20 @@ image:
 
 ### Youngjae (영재)
 
-![Desktop View](/assets/img/posts/weverse-live/240825-youngjae.jpg){: width="520" height="520" }
-_Youngjae wore Il Corso Check Shirt_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240825-youngjae.webp" 
+      alt="Youngjae wore Il Corso Western Grunge Check Shirt Dark Pink" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABwBACdASoUABQAPzmSv1mvKaYjqAgB4CcJYwAAIH3V7tAOGR0kbcYhreeaAAD818sJQ7SrQ0GlHyOPmR3spzvPEJE5egGygIBwniihiiOYz0bPIjdf8zu3lYZuqLwXVMSiyJdrzEUYD3pb1n2fEcAuVbjQdjJVSsgZbjq9F0UANm1KSLY4II/2vCxknFMbA1LOycAA'); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Youngjae wore Il Corso Western Grunge Check Shirt Dark Pink</em></p>
+</div>
+
 
 ### Kyungmin (경민)
 
