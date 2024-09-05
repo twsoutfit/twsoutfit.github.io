@@ -11,22 +11,88 @@ image:
 
 ### TWS (투어스)
 
-![Desktop View](/assets/img/posts/weverse-live/240808-tws.jpg){: width="520" height="520" }
-_TWS Wore Nike Jordan White & Black Air Jordan 11 Retro Sneakers_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240808-tws.webp" 
+      alt="TWS Wore Nike Jordan White & Black Air Jordan 11 Retro Sneakers" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASoUABQAPzmKu1WvKSYjKA1R4CcJZQBTAAPQmL/pnjcp8tgmt6JAAP7FzvF1NNkUSickfsX7AVoNmRa7K1DrHxzudTtOrqFayAeoMdpBKnd7vDKzR2tF2GefJsIWJlE+yMUfSBVYAAA='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>TWS Wore Nike Jordan White & Black Air Jordan 11 Retro Sneakers</em></p>
+</div>
 
 ### Snack 
 
-![Desktop View](/assets/img/posts/weverse-live/240808-food.jpg){: width="520" height="520" }
-_Meiji Takenoko no Sato Biscuits Chocolate, Meiji Fruit Juice Gummy Muscat Flavor and Bourbon Fettucine Gummy Cola Flavor_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240808-food.webp" 
+      alt="Meiji Takenoko no Sato Biscuits Chocolate, Meiji Fruit Juice Gummy Muscat Flavor and Bourbon Fettucine Gummy Cola Flavor" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADQBACdASoUABQAPzmSwFmvKaajqAgB4CcJaADLLBBP+xNbrMTFrbItPqkFC3JN4ADJaMLfF/3FjX+bvjtZh8cuYrtsLROOs0xTTNThzgErWUhS4jlGxKNBiE9MEf+pLcKX6tY7Jb9Fq6dMdPW6ryW5oj1S/gy/kS7abUOfeZddomktitD6wYhhM/SZbGB2VWqHuCbaYD4jh0WAnudjHm48CmX8eAHX2IAAAA=='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Meiji Takenoko no Sato Biscuits Chocolate, Meiji Fruit Juice Gummy Muscat Flavor and Bourbon Fettucine Gummy Cola Flavor</em></p>
+</div>
 
-![Desktop View](/assets/img/posts/weverse-live/240808-food-1.jpg){: width="520" height="520" }
-_Tarami's Chunky Ripe Mango [たらみのごろっと 完熟マンゴー]_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240808-food-1.webp" 
+      alt="Tarami's Chunky Ripe Mango [たらみのごろっと 完熟マンゴー]" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoUABQAPzmMulYvKSWjqA1R4CcJZgDDVQdBJybyxQH9L2joASr41AAAzBHItc7mbCNAIevj2MrH5kMIoRqEV35Xg+rkW2ojxKbWuJT99m7T+ozTT6jvegAMtYHTjFd60OIEJdT+sYFKpfUSPxBdCLzAIqwSfTJqkqXMJAU6KuQ/3oCQCpmwAAAA'); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Tarami's Chunky Ripe Mango [たらみのごろっと 完熟マンゴー]</em></p>
+</div>
 
-![Desktop View](/assets/img/posts/weverse-live/240808-food-2.jpg){: width="520" height="520" }
-_7-11 Camembert Cheese Soufflé, Calbee JagaRiko Jagabee, 7-11 Fruits Full Mixed Jelly 210g [くだもの充実 ミックスゼリー 210g]_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240808-food-2.webp" 
+      alt="7-11 Camembert Cheese Soufflé, Calbee JagaRiko Jagabee, 7-11 Fruits Full Mixed Jelly 210g [くだもの充実 ミックスゼリー 210g]" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoUABQAPzmMuVYvKSUjqA1R4CcJZgDA/TuqV8RAH9b5lLdqfVdAAOlVjV77nl95+0SEN+hBZ1bob9Zri3UDRU/4VT8e6yaBZzZLRAUYMCX6LX5gLXbeznHvRaszZKtmC3Q8gFjrokee3HuA+RbaJKsiIeWCkMOqZgOa+aGQT0mHI3eM1dbTfT/PgAtUMOJ/MhGkVebo9eYgAA=='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>7-11 Camembert Cheese Soufflé, Calbee JagaRiko Jagabee, 7-11 Fruits Full Mixed Jelly 210g [くだもの充実 ミックスゼリー 210g]</em></p>
+</div>
 
-![Desktop View](/assets/img/posts/weverse-live/240808-food-3.jpg){: width="520" height="520" }
-_Morinyu Morinaga Baked Pudding 140g, Ohayo Milk Industry BRULEE, Calbee JagaRiko Cheese 58g_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240808-food-3.webp" 
+      alt="Morinyu Morinaga Baked Pudding 140g, Ohayo Milk Industry BRULEE, Calbee JagaRiko Cheese 58g" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADQBACdASoUABQAPzmSv1mvKaajqAgB4CcJagDBzywAm5hJeQT3mVHFFku5NOMwAADMEczxQdQ3tJ8pYf+hvYRKZxCtF/GzW3IFGntpkgfSOZaYjutGptIW7ys3OkUQylyMYppDpo0D9rDUAxFRrGuVJrNnHiEDAmV5Vbo4DI4ysgvrvFD7hDn4YfV5+8DbD504Uu4rowtm64AAAAA='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Morinyu Morinaga Baked Pudding 140g, Ohayo Milk Industry BRULEE, Calbee JagaRiko Cheese 58g</em></p>
+</div>
 
-![Desktop View](/assets/img/posts/weverse-live/240808-food-4.jpg){: width="520" height="520" }
-_Iro-Ha-Su Natural Water, 7-11 Strong Carbonated Water 500ml [強炭酸水 500ml], 7-11 Milk Crepe with Lots of Cream [たっぷりクリームのミルクレープ 1個入]_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240808-food-4.webp" 
+      alt="Iro-Ha-Su Natural Water, 7-11 Strong Carbonated Water 500ml [強炭酸水 500ml], 7-11 Milk Crepe with Lots of Cream [たっぷりクリームのミルクレープ 1個入]" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAACQBACdASoUABQAPzmUwFmvKiajqAgB4CcJYgDE2AmD2NFKISP1E5YQg+bb6QAAyXGEHup5+mAu1Bo5RBncQcT7xBFEVxMrAlJKSf+xNZveeK5RACWWDl91TRjASI3Y9bvfRTJuYQaJJkM5X6K2A6Khe7YgI/Y2Q8EAz/FqBRO9jp0wL00dycLm7lUvMODYiorAB8I6Sy3Lg+ugAAA='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Iro-Ha-Su Natural Water, 7-11 Strong Carbonated Water 500ml [強炭酸水 500ml], 7-11 Milk Crepe with Lots of Cream [たっぷりクリームのミルクレープ 1個入]</em></p>
+</div>

@@ -13,5 +13,16 @@ image:
 
 ### Hanjin (한진) and Kyungmin (경민)
 
-![Desktop View](/assets/img/posts/weverse-live/240702-hanjin-kyungmin.jpg){: width="520" height="520" }
-_Kyungmin and Hanjin wore TAKEASY Knit Vest_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240702-hanjin-kyungmin.webp" 
+      alt="Kyungmin and Hanjin wore TAKEASY Small Raccu Cable Knit Vest" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADwBACdASoUABQAPzmUwVmvKicjqAgB4CcJZQDM0YxsZPdBcdSSUZenqNR7vZTDjQAA4j50KvBMRFKM9e3hA0Rrc3+l1ZtZStDWoREyDuPIw+gzFN9yL3on83rdTBudFttUi8/Wk8BhUanGpgOmkXuYAG5yAElazwNfhR3mNHtIL0jBpCIhf6cGqFprOJwHRpANW934bkzOW0KRT5drYzlqOYpjCgzrykVay3upnAUYwlHVXmsiWZAA'); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Kyungmin and Hanjin wore TAKEASY Small Raccu Cable Knit Vest</em></p>
+</div>

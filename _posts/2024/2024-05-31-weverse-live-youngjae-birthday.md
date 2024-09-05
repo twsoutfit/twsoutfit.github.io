@@ -12,25 +12,80 @@ image:
 
 ### Shinyu (신유)
 
-![Desktop View](/assets/img/posts/weverse-live/240531-shinyu.jpg){: width="520" height="520" }
-_Shinyu wore Tommy Hilfiger Cardigan_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240531-shinyu.webp" 
+      alt="Shinyu wore Tommy Hilfiger Monotype Tipped Cardigan" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQAwCdASoUABQAPzmOvFgvKSWjqAqp4CcJQAACkEGS5uLEB097xqAA9wiIqwGKhKe5q1DnZvCPDrdcTGtz280Ah5Jk2TbObw6XSr5OgF55GbkFfjA29hPBpVAPP7QAyYkzhi1tTq3jOfGxnkj+pFdkXIK8PkaCbEoAAA=='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Shinyu wore Tommy Hilfiger Monotype Tipped Cardigan</em></p>
+</div>
 
 ### Dohoon (도훈)
 
-![Desktop View](/assets/img/posts/weverse-live/240531-dohoon.jpg){: width="520" height="520" }
-_Dohoon wore Romantic Crown Check Shirt_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240531-dohoon.webp" 
+      alt="Dohoon wore Romantic Crown Tartan Check Shirt" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoUABQAPzmSvlmvKaYjqAgB4CcJYwAAFHqUFXxM37+ZUop0AADhcLAb7ykEp80Ta8ZDfbQqoaZinMqMsI9pdA0zzCLKGHbTqwDQBCD9EAjfqLtWWdw5beVibwZN06m6VH5HXVB9D3pse8TuV8mYfl9bG9Ti6jbqAAA='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Dohoon wore Romantic Crown Tartan Check Shirt</em></p>
+</div>
 
 ### Hanjin (한진)
 
-![Desktop View](/assets/img/posts/weverse-live/240531-hanjin.jpg){: width="520" height="520" }
-_Hanjin wore NBA Jacket_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240531-hanjin.webp" 
+      alt="Hanjin wore NBA Jacket" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBACdASoUABQAPzmQvlmvKSYjqAgB4CcJZwAAJm1m3N8M6TN/qfOH6wGgANb5lTk03nhJ+Fm36XwN2FkdpF1UTw1Elzxg1QQMUCdlru0mqdtTCDbi+ETt89WmiAeJZI+PUnbuvGpBHCwS6DoAqQZBN5z1F8cVX5bEl05pAQAoAAAA'); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Hanjin wore NBA Jacket</em></p>
+</div>
 
 ### Jihoon (지훈)
 
-![Desktop View](/assets/img/posts/weverse-live/240531-jihoon.jpg){: width="520" height="520" }
-_Jihoon wore Romantic Crown Knit Vest_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240531-jihoon.webp" 
+      alt="Jihoon wore Romantic Crown Double Line Waffle Knit Vest" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQAwCdASoUABQAPzmIvFUvKKYjKA1R4CcJYwAAGqFib89Mw9tycAAA8CqfDqNE/bz4mo0MFpJw8qbwwPyNlqk7pnQS5w2YDX34uiVCNj6kwN7WyQHTOschK1ctli+NZ90X1d+1ocJdml4wZCSaHzP0v2MUB4eRnN8VqJAAAAA='); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Jihoon wore Romantic Crown Double Line Waffle Knit Vest</em></p>
+</div>
 
 ### Kyungmin (경민)
 
-![Desktop View](/assets/img/posts/weverse-live/240531-kyungmin.jpg){: width="520" height="520" }
-_Kyungmin wore Palm Angels Hoodie_
+<div style="text-align: center; font-size: 14px;">
+  <picture>
+    <img 
+      src="/assets/img/posts/weverse-live/240531-kyungmin.webp" 
+      alt="Kyungmin wore Palm Angels Monogram Knit Hoodie" 
+      width="400" 
+      height="400" 
+      style="background: url('data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADwBACdASoUABQAPzmKu1WvKSYjKA1R4CcJQBkau4AOKxQy7Aw9Kyjhs6/Ml++gdEgA/GZivbMjk7+qTrJNtzbGxn/Euq+sXd6MiXIpxBr5SzI2EZq3xzmPdA00ncx0ZKh+mvcnMAK5ZaIDd2dSsFni8vl3PLLX0A05RLJlew1p26eLrvOBeqr1Bm8nRIu/cle6+AAA'); background-size: cover;"
+      loading="lazy"
+    />
+  </picture>
+  <p style="margin-top: 10px;"><em>Kyungmin wore Palm Angels Monogram Knit Hoodie</em></p>
+</div>
